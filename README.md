@@ -6,7 +6,7 @@ BOM:
 
 3- Matrix (FC16) LED 8*32 MAX7219 < 4-in-1 >= * 4 PCS
 
-4- RTC clock module  DS1307
+4- RTC clock module  DS1307 = * 1 PCS
 
 5- 5-hole DuPont wire (15 cm long) = * 1 PCS
 
